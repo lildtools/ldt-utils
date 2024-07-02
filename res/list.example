@@ -1,4 +1,0 @@
-PASSWORD=code-server_P4ssWd+
-SUDO_PASSWORD=code-server_sUd0P4ssWd+
-PUID=$(id -u)
-PGID=$(id -g)
